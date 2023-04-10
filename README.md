@@ -1,7 +1,7 @@
 <div>
-  <a href="https://github.com/Vinicius-Danvanzo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Danvanzo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Danvanzo&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/Kahori148">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kahori148&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahori148&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,6 +15,6 @@
   <a href = "mailto:viniciusdanvanzo@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-danvanzo-195951269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Vinicius-Danvanzo/Vinicius-Danvanzo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kahori148/Kahori148/blob/output/github-contribution-grid-snake.svg)
 
 </div>
