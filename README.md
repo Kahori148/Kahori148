@@ -1,5 +1,5 @@
 <div>
-  #Bem vind@ ao meu perfil! ❤
+  ## Bem vindo(a) ao meu perfil! 😁
 </div>
 <div>
   <a href="https://github.com/Kahori148">
